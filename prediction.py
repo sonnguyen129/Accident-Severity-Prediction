@@ -42,35 +42,7 @@ def get_prediction(data1, data2, data3, model):
   return accident_severity[prediction]
 
 
-def encodeTime(time):
-  if time >=6 and time<18: 
-    return 0
-  else:
-    return 1
 
-def encodeSex(value):
-  if value == 'Female':
-    return 0
-  else:
-    return 1
-  
-def encodeAgeBand(value):
-  if value == 'Under 18':
-    return 0
-  elif value == '18-30':
-    return 1
-  elif value == '31-50':
-    return 2
-  elif value == 'Over 51':
-    return 3
-
-def encodeDrivingExp(value):
-  mapper = {'No Licence': 0, 'Below 1yr': 1, '1-2yr': 2, '2-5yr': 3, '5-10yr': 4, 'Above 10yr': 5}
-  return mapper[value]
-
-def encodeEdu(value):
-  mapper = {'Illiterate': 0, 'Writing & reading': 1, 'Elementary school': 2, 'Junior high school': 3, 'High school': 4, 'Above high school': 5}
-  return mapper[value]
 
 
 
