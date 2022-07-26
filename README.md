@@ -1,5 +1,5 @@
 # Road Traffic Severity Classification🚦
-![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XgBoost-orange)
 ![Frontend](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Deployment](https://img.shields.io/badge/Cloud-Heroku-purple)
