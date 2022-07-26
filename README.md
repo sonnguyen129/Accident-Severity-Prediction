@@ -1,4 +1,4 @@
-# Road Traffic Severity Classification🚦
+# Road Traffic Severity Prediction
 ![Python](https://img.shields.io/badge/Python-3.8.10-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
 ![Frontend](https://img.shields.io/badge/Framework-Streamlit-red)
@@ -7,7 +7,7 @@
 ## Web Application: 
 Built a web application using Streamlit and deployed on Heroku.
 
-<img width="760" alt="image" src="doc/Demo.gif">
+<img width="800" alt="image" src="doc/Demo.gif">
 
 
 ## Check it out
