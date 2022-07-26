@@ -73,7 +73,7 @@ features = ['Time', 'Day_of_week', 'Age_band_of_driver', 'Vehicle_driver_relatio
 
 st.markdown("<h1 style='text-align: center;'>Accident Severity Prediction Application 🚧</h1>", unsafe_allow_html=True)
 
-image = Image.open('RTA1.png')
+image = Image.open('doc/theme.png')
 col1, col2, col3 = st.columns([0.2, 5, 0.2])
 col2.image(image, use_column_width=True)   
 

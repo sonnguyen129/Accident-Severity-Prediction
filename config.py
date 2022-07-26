@@ -13,4 +13,4 @@ Service_year_of_vehicle_dict = {'Below 1yr' : 1, '1-2yr' : 2, '2-5yrs' : 3, '5-1
 Light_conditions_dict = {'Darkness - no lighting' : 1, 'Darkness - lights lit' : 2, 'Daylight' : 3}
 Age_band_of_casualty_dict = {'Under 18' : 1, '18-30' : 2, '31-50' : 3, 'Over 51' : 4}
 
-Accident_severity_dict = {0: 'Slight Injury', 1: 'Slight Injury', 2: 'Serious Injury', 3: 'Fatal injury'}
+Accident_severity_dict = {1: 'Slight Injury', 2: 'Serious Injury', 3: 'Fatal injury'}

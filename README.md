@@ -4,10 +4,10 @@
 ![Frontend](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Deployment](https://img.shields.io/badge/Cloud-Heroku-purple)
 
-## Web Application :computer: :earth_americas: : 
+## Web Application: 
 Built a web application using Streamlit and deployed on Heroku.
 
-<img width="960" alt="image" src="doc/Demo.gif">
+<img width="760" alt="image" src="doc/Demo.gif">
 
 
 ## Check it out
